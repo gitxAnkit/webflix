@@ -36,5 +36,5 @@ Contributions to improve and extend WebFlix are welcome! Feel free to create pul
 
 ### Live Link
 
-Check out: [Live demo](https://vercel.com/gitxankits-projects/webflix/6Zy2wx9V92CvcrKjtZsQuVUUt1WQ)
+Check out: [Live demo](https://webflix-xi.vercel.app/)
 
