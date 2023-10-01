@@ -36,5 +36,5 @@ Contributions to improve and extend WebFlix are welcome! Feel free to create pul
 
 ### Live Link
 
-Once your project is deployed, add the live link to the deployed version of WebFlix in this section for easy access.
+Check out: [Live demo](https://vercel.com/gitxankits-projects/webflix/6Zy2wx9V92CvcrKjtZsQuVUUt1WQ)
 
